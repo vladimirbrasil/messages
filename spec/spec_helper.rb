@@ -1,5 +1,8 @@
 require 'rubygems'
 require 'spork'
+# require 'nulldb_rspec'
+# include NullDB::RSpec::NullifiedDatabase
+
 #uncomment the following line to use spork with the debugger
 #require 'spork/ext/ruby-debug'
 

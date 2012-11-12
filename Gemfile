@@ -11,6 +11,7 @@ group :development, :test do
 	gem "rspec-rails", ">= 2.0.0"
   gem 'webrat', '>= 0.7.2' 
   gem 'spork'
+  # gem 'activerecord-nulldb-adapter', '0.1.9'
 end
 
 # Gems used only for assets and not required
